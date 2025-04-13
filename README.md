@@ -1,4 +1,4 @@
-# [Project Name] - My First Flutter Project
+# [Accounting App] - My First Flutter Project
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Flutter Version](https://img.shields.io/badge/Flutter-%3E%3D3.x.x-blue)](https://flutter.dev/) [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Desktop-lightgrey)](https://flutter.dev/) This is my first Flutter project, exploring the basics of app development with Flutter. It demonstrates setting up a basic application structure.
 
